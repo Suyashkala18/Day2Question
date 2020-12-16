@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\My Trainig Work\Devops\FindPrimeSolution\FindPrime\bin\Debug\FindPrime.exe.config
+C:\Users\user\Desktop\My Trainig Work\Devops\FindPrimeSolution\FindPrime\bin\Debug\FindPrime.exe
+C:\Users\user\Desktop\My Trainig Work\Devops\FindPrimeSolution\FindPrime\bin\Debug\FindPrime.pdb
+C:\Users\user\Desktop\My Trainig Work\Devops\FindPrimeSolution\FindPrime\obj\Debug\FindPrime.csprojAssemblyReference.cache
+C:\Users\user\Desktop\My Trainig Work\Devops\FindPrimeSolution\FindPrime\obj\Debug\FindPrime.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\My Trainig Work\Devops\FindPrimeSolution\FindPrime\obj\Debug\FindPrime.exe
+C:\Users\user\Desktop\My Trainig Work\Devops\FindPrimeSolution\FindPrime\obj\Debug\FindPrime.pdb
