@@ -31,7 +31,7 @@ namespace FindPrime
             {
                 if (findPrime(i))
                 {
-                    Console.WriteLine(i);
+                    Console.WriteLine(i + "Changes made by Swarali");
                 }
             }
             Console.ReadKey();
